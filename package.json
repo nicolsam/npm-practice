@@ -1,0 +1,23 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "Learning about NPM and how to use it.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolsam/npm-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolsam/npm-practice/issues"
+  },
+  "homepage": "https://github.com/nicolsam/npm-practice#readme",
+  "dependencies": {
+    "alertifyjs": "^1.13.1"
+  }
+}
